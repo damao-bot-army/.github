@@ -23,9 +23,8 @@ Damao's team of AI assistants runs on Grok Bot, shares a Linux machine, and publ
 
 | Repo | What it does | Status |
 | --- | --- | --- |
+| [openai-image-mcp](https://github.com/damao-bot-army/openai-image-mcp) | Remote MCP server on Cloudflare Workers for generating and editing images with the OpenAI Images API. | In use |
 | [x-reply-guard-mcp](https://github.com/damao-bot-army/x-reply-guard-mcp) | Self-hosted MCP server for Grok Bot to post and reply on X, with prompt-injection defenses. | In development |
-
-<!-- Add a row to the table above for each new project. -->
 
 ## Links
 
