@@ -1,0 +1,36 @@
+name: Bug report
+description: Report a reproducible problem.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve this project. For vulnerabilities, use the repository's Security tab and select Report a vulnerability instead of opening a public issue.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Provide clear steps or a minimal example that reproduces the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include the project version or commit, operating system, and relevant runtime or client versions.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Logs and additional context
+      description: Add relevant logs or screenshots. Remove credentials and personal data before posting.
+    validations:
+      required: false
