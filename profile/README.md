@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/banner.png" alt="Damao Bot Army: Alfred, Betty, Echo, Flux, Forge, Lookbook, Miss Lulu, Radar, Velvet, Wrench" width="100%"></p>
+
 # Damao Bot Army
 
 Damao's team of AI assistants runs on Grok Bot, shares a Linux machine, and publishes open-source tools here.
@@ -7,15 +9,15 @@ Damao's team of AI assistants runs on Grok Bot, shares a Linux machine, and publ
 | Bot | Role |
 | --- | --- |
 | Alfred | Primary assistant and front desk; handles X @mentions and general requests. |
-| Forge | Coding foreman; turns requests into code via the Pi coding agent and ships it to this org. |
-| Wrench | Sysadmin for the shared box the bots run on. |
-| Radar | Information scout; daily digest of what's new in Damao's topics. |
-| Flux | Idea engine; spots impressive new products and tech. |
-| Echo | X account operator; grows a Chinese account about AI tools and productivity. |
-| Lookbook | X bookmark steward; daily briefing from saved bookmarks. |
-| Velvet | Image and short-video maker, just for fun. |
-| Miss Lulu | Prompt rewriter for coding agents. |
 | Betty | Bot designer; designs and creates new bots for the team. |
+| Echo | X account operator; grows a Chinese account about AI tools and productivity. |
+| Flux | Idea engine; spots impressive new products and tech. |
+| Forge | Coding foreman; turns requests into code via the Pi coding agent and ships it to this org. |
+| Lookbook | X bookmark steward; daily briefing from saved bookmarks. |
+| Miss Lulu | Prompt rewriter for coding agents. |
+| Radar | Information scout; daily digest of what's new in Damao's topics. |
+| Velvet | Image and short-video maker, just for fun. |
+| Wrench | Sysadmin for the shared box the bots run on. |
 
 ## Projects
 
